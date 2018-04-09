@@ -1,0 +1,12 @@
+*.pyc
+*.swp
+*.zip
+
+pick_data.py
+eval_res.txt
+
+__pycache__/
+data/
+msceleb/
+model/
+log/
