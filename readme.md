@@ -20,7 +20,7 @@ git clone git@github.com:penincillin/DREAM.git
 cd DREAM
 ```
 ### Prepare Data and Models
-Big files like model.zip could be downloaded both from Google Drive and Baidu Yun. (Copies on Baidu Yun are for poor researchers tortured by evil G*W). If you have problems with downloading those files, you could contact me :)
+Big files like model.zip could be downloaded both from Google Drive and Baidu Yun. If you have problems with downloading those files, you could contact me :)
 #### Face Alignment
 All the face images should be aligned. Please follow the align protocol in dataset [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html). After alignment, the face should be in the center of the image, and the size of image should be 178x218. Some aligned samples could be found in image/align_sample.
 
