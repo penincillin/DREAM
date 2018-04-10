@@ -121,7 +121,7 @@ Please cite the paper in your publications if it helps your research:
 
     
     
-    @inproceedings{cao2017Dream,
+    @inproceedings{cao2018Dream,
       author = {Kaidi Cao and Yu Rong and Cheng Li and Xiaoou Tang and Chen Change Loy},
       booktitle = {CVPR},
       title = {Pose-Robust Face Recognition via Deep Residual Equivariant Mapping},
