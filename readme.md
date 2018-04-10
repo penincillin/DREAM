@@ -116,7 +116,7 @@ cd src/IJBA
 sh eval_ijba.sh
 ```
 
-##Citation
+## Citation
 Please cite the paper in your publications if it helps your research:
 
     
