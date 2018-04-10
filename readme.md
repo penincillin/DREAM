@@ -32,7 +32,7 @@ Ms-Celeb-1M Subset: [Google Drive](https://drive.google.com/file/d/1om0pbwBX4RZH
 We evaluate our the performance of our models on CFP and IJB-A.
 For CFP, we offer the code to get algined images from the original images (The code could only be runned on Linux). First, you need to download the original CFP dataset, and then download the image list from [Google Drive](https://drive.google.com/file/d/1B9QGThNd_-4Pg8O3si-EUYU9Px748p1C/view?usp=sharing) &nbsp; &nbsp; [Baidu Yun](https://pan.baidu.com/s/1U_CzmLsJ2OaX4rJeJ7r92g)
 
-For IJBA, if you want the aligned images for IJBA, you could contact me or contact other co-authors of our paper to ask for it.  
+For IJBA, we provide the aligned images here. [Google Drive](https://drive.google.com/file/d/11p1eVSpyHZQUG0uBGyRoFnOXXTuZ501c/view?usp=sharing)　&nbsp; &nbsp;  [Baidu Yun](https://pan.baidu.com/s/1xLi6zDqwAeXEMV4aWi1k3g) 
 
 #### Pretrained Models
 We offer several pretrained models. They could be downloaded from [Google Drive](https://drive.google.com/open?id=1CrWbsyAvqTA14ET2wvks_4U2_h1P52qK) &nbsp; &nbsp; [Baidu Yun](https://pan.baidu.com/s/1LQmWZss0QoRc_chVIHsR_Q)
