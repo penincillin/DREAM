@@ -30,7 +30,7 @@ We offer a subset of Ms-Celeb-1M with 300 celebrities, you could download from t
 Ms-Celeb-1M Subset: [Google Drive](https://drive.google.com/file/d/1om0pbwBX4RZHVuI3QXVrBj9mLtOK2PV8/view?usp=sharing) &nbsp; &nbsp; [Baidu Yun](https://pan.baidu.com/s/1Zviee1QXnB7noArpAoy7Iw)  
 
 We evaluate our the performance of our models on CFP and IJB-A.
-For CFP, we offer the code to get algined images from the original images (The code could only be runned on Linux). First, you need to download the original CFP dataset, and then download the image list from [Google Drive](https://drive.google.com/file/d/1B9QGThNd_-4Pg8O3si-EUYU9Px748p1C/view?usp=sharing)
+For CFP, we offer the code to get algined images from the original images (The code could only be runned on Linux). First, you need to download the original CFP dataset, and then download the image list from [Google Drive](https://drive.google.com/file/d/1B9QGThNd_-4Pg8O3si-EUYU9Px748p1C/view?usp=sharing) &nbsp; &nbsp; [Baidu Yun](https://pan.baidu.com/s/1U_CzmLsJ2OaX4rJeJ7r92g)
 
 For IJBA, if you want the aligned images for IJBA, you could contact me or contact other co-authors of our paper to ask for it.  
 
@@ -39,7 +39,7 @@ We offer several pretrained models. They could be downloaded from [Google Drive]
 
 ## Train DREAM Block
 ### stitch Training
-Prepare the feature extracted from any face recognition model (You could use the pretrained model we prepared). We prepared a piece of sample data which could be download from [Google Drive](https://drive.google.com/file/d/1x1K8MxAnVtpfaN3DfO4bdcKH39mmplj-/view?usp=sharing)
+Prepare the feature extracted from any face recognition model (You could use the pretrained model we prepared). We prepared a piece of sample data which could be download from [Google Drive](https://drive.google.com/file/d/1x1K8MxAnVtpfaN3DfO4bdcKH39mmplj-/view?usp=sharing) &nbsp; &nbsp; [Baidu Yun](https://pan.baidu.com/s/1SUFIdfs03SKnJLXK-QLbWw)
 - Download the sample data
 ```bash
 mkdir data
