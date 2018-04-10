@@ -125,6 +125,6 @@ Please cite the paper in your publications if it helps your research:
       author = {Kaidi Cao and Yu Rong and Cheng Li and Xiaoou Tang and Chen Change Loy},
       booktitle = {CVPR},
       title = {Pose-Robust Face Recognition via Deep Residual Equivariant Mapping},
-      year = {2017}
+      year = {2018}
       }
 
