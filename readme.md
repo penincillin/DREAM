@@ -1,5 +1,5 @@
 # DREAM block for Pose-Robust Face Recognition
-This is our implementation for our CVPR 2018 accepted paper *Pose-Robust Face Recognition via Deep Residual Equivariant Mapping* [paper on arxiv](https://arxiv.org/list/cs.CV/recent).
+This is our implementation for our CVPR 2018 accepted paper *Pose-Robust Face Recognition via Deep Residual Equivariant Mapping* [paper on arxiv](https://arxiv.org/abs/1803.00839).
 
 The code is wriiten by [Yu Rong](https://github.com/penincillin) and [Kaidi Cao](https://github.com/CarlyleCao)
 
