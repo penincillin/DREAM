@@ -40,8 +40,7 @@ We offer several pretrained models. They could be downloaded from [Google Drive]
 ## Train DREAM Block
 ### stitch Training
 Prepare the feature extracted from any face recognition model (You could use the pretrained model we prepared).   
-We prepared a piece of sample data which could be download from  
-stitching.zip: [Google Drive](https://drive.google.com/file/d/1x1K8MxAnVtpfaN3DfO4bdcKH39mmplj-/view?usp=sharing) &nbsp; &nbsp; [Baidu Yun](https://pan.baidu.com/s/1QIEeE9RxRY6iK3wCpvUh2Q)  
+We prepared a piece of sample data (stitching.zip) which could be download from [Google Drive](https://drive.google.com/file/d/1x1K8MxAnVtpfaN3DfO4bdcKH39mmplj-/view?usp=sharing) &nbsp; &nbsp; [Baidu Yun](https://pan.baidu.com/s/1QIEeE9RxRY6iK3wCpvUh2Q)  
 - Download the sample data
 ```bash
 mkdir data
