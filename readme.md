@@ -26,7 +26,7 @@ All the face images should be aligned. Please follow the align protocol in datas
 
 #### Datasets
 In this paper, we use three face datasets. We train base model and DREAM block on [MS-Celeb-1M](https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/)  
-We offer a subset of Ms-Celeb-1M with 300 celebrities, you could download from the following link  
+We offer a subset of Ms-Celeb-1M with 10 celebrities, you could download from the following link  
 Ms-Celeb-1M Subset (msceleb.zip): [Google Drive](https://drive.google.com/file/d/1om0pbwBX4RZHVuI3QXVrBj9mLtOK2PV8/view?usp=sharing) &nbsp; &nbsp; [Baidu Yun](https://pan.baidu.com/s/1Zviee1QXnB7noArpAoy7Iw)  
 
 We evaluate our the performance of our models on CFP and IJB-A.
